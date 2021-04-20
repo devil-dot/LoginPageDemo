@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginPageDemo</string>
+    <string name="user_name">User Name</string>
+    <string name="login">Login</string>
+    <string name="number_of_incorrect_attempts">Number of incorrect attempts</string>
+    <string name="password">Password</string>
+    <string name="welcome_to_second_activity">Welcome to second activity</string>
+</resources>
